@@ -1,0 +1,348 @@
+# Translation of Themes - Hexagon in Russian
+# This file is distributed under the same license as the Themes - Hexagon package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-09 11:26:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Hexagon\n"
+
+#. Description of the theme
+msgid "Hexagon is a WordPress theme of premium level and provides immense possibilities with which you can make a beautiful, exotic as well as distinct website. Armed with some features of high calibre and eminence, this theme has become a natural choice for the creative agencies as well as the corporate websites since its inception in the market. Hexagon WordPress theme is known for its multipurpose, minimal and responsive nature besides being Bootstrap oriented and equipped with CTA [call to action] apart from personalization and customization options making it a good choice for the personal blogs as well as the product based sites and many other sites of similar order. It is minimal, elegant, sophisticated and clean apart from being user friendly and beautiful. It is also professional with personalization options and also has a testimonial section as a result making it an excellent option for multiple businesses. Hexagon WP theme has the highest code quality and secondly the documentation accompanied with it is easy to read. It is also equipped with the prompt support with quality. The web design accompanied with Hexagon makes use of different CSS formatting requiring different code base. It is interactive, stunning and translation ready. Demo: https://luzuk.com/demo/hexagon/"
+msgstr "Hexagon — это WordPress-тема премиум-уровня, предоставляющая огромные возможности, с которыми вы сможете сделать красивый, экзотический и отличный сайт. С некоторыми качествами эта тема стала естественным выбором как для креативных агентств, так и для корпоративных сайтов с момента её появления на рынке. Тема Hexagon для WordPress многоцелевая, минимальная и адаптивная, кроме того, что она на Bootstrap и оснащена CTA (призывом к действию), кроме возможностей персонализации и настройки, что делает её хорошим выбором для личных блогов, а также для сайтов на основе продуктов и многих других аналогичных сайтов. Тема минимальна, изящна, утончённа и чиста, поэтому удобна и красива. Она также профессиональна с настройками персонализации, а также имеет раздел с отзывами, что делает её отличным вариантом для нескольких предприятий. WP-тема Hexagon имеет высшее качество кода и сопровождается простой в понимании документациией. Ещё оперативна поддержка качества. В веб-дизайне Hexagon используется различное CSS-форматирование, требующее другой базы кода. Тема интерактивна, грандиозна и готова к переводу. Демо: https://luzuk.com/demo/hexagon/"
+
+#. Theme Name of the theme
+msgid "Hexagon"
+msgstr "Hexagon"
+
+#: header.php:22
+msgid "Menu"
+msgstr "Меню"
+
+#: header.php:16
+msgid "http://gmpg.org/xfn/11"
+msgstr "http://gmpg.org/xfn/11"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:40
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Изменить<span class=\"screen-reader-text\"> «%s»</span>"
+
+#: inc/template-tags.php:19
+msgid ", "
+msgstr ", "
+
+#: inc/customizer.php:274
+msgid "Go Pro"
+msgstr "Получить PRO"
+
+#: inc/customizer.php:273
+msgid "Hexagon Pro "
+msgstr "Hexagon Pro "
+
+#: inc/customizer.php:165
+msgid "Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed."
+msgstr "Выберите избранные страницы для каждой области из выпадающих списков. Добавьте изображение в раздел, установив избранное изображение в редакторе страницы. Пустые разделы не будут показаны."
+
+#. translators: %d is the front page section number
+#: inc/customizer.php:164
+msgid "Front Page Section %d Content"
+msgstr "Содержимое раздела «%d» главной страницы"
+
+#: inc/customizer.php:122 inc/customizer.php:132
+msgid "Footer Text"
+msgstr "Текст в нижней части"
+
+#: inc/customizer.php:116
+msgid "Select Category to display Post"
+msgstr "Выберите категорию для показа записи"
+
+#: inc/customizer.php:91
+msgid "Section Title"
+msgstr "Заголовок раздела"
+
+#: inc/customizer.php:82
+msgid "This section will appear below the services."
+msgstr "Этот раздел появится под услугами."
+
+#: inc/customizer.php:81
+msgid "Our Services"
+msgstr "Наши услуги"
+
+#: inc/customizer.php:73
+msgid "Select Slide Image Page"
+msgstr "Выберите страницу со слайдером"
+
+#: inc/customizer.php:60
+msgid "Image Size ( 1500 x 700 )"
+msgstr "Размер изображения (1500x700)"
+
+#: inc/customizer.php:59
+msgid "Show / Hide slider"
+msgstr "Показать/скрыть слайдер"
+
+#: inc/customizer.php:48
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer.php:42
+msgid "Grid Layout"
+msgstr "Разметка в виде сетки"
+
+#: inc/customizer.php:41
+msgid "Four Columns"
+msgstr "Четыре столбца"
+
+#: inc/customizer.php:40
+msgid "Three Columns"
+msgstr "Три столбца"
+
+#: inc/customizer.php:39
+msgid "One Column"
+msgstr "Один столбец"
+
+#: inc/customizer.php:37
+msgid "Left Sidebar"
+msgstr "Левая область виджетов"
+
+#: inc/customizer.php:34
+msgid "Do you want this section"
+msgstr "Вы хотите этот раздел"
+
+#: inc/customizer.php:21
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: inc/customizer.php:17
+msgid "Description of what this panel does."
+msgstr "Описание того, что делает эта панель."
+
+#: inc/customizer.php:16
+msgid "Theme Settings"
+msgstr "Настройки темы"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:28
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к «%2$s»"
+msgstr[1] "%1$s комментария к «%2$s»"
+msgstr[2] "%1$s комментариев к «%2$s»"
+
+#. translators: %s: post title
+#: comments.php:23
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к «%s»"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться поиском."
+
+#: 404.php:19
+msgid "Return to home page"
+msgstr "На главную страницу"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#: index.php:19
+msgid "Posts"
+msgstr "Записи"
+
+#: search.php:41 search.php:77 search.php:113 search.php:148 search.php:186
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#. translators: %s: search term
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Результаты поиска «%s»"
+
+#: page-template/custom-home-page.php:40 page-template/custom-home-page.php:81
+msgid "Read More"
+msgstr "Читать далее"
+
+#. Template Name of the theme
+msgid "Custom Home"
+msgstr "Пользовательская домашняя страница"
+
+#. Template Name of the theme
+msgid "Page left sidebar"
+msgstr "Страница левой области виджетов"
+
+#. Template Name of the theme
+msgid "Page right sidebar"
+msgstr "Страница правой области виджетов"
+
+#: functions.php:181
+msgid "Collapse child menu"
+msgstr "Свернуть дочернее меню"
+
+#: functions.php:180
+msgid "Expand child menu"
+msgstr "Раскрыть дочернее меню"
+
+#: functions.php:124
+msgid "Footer 4"
+msgstr "Нижняя часть 4"
+
+#: functions.php:114
+msgid "Footer 3"
+msgstr "Нижняя часть 3"
+
+#: functions.php:104
+msgid "Footer 2"
+msgstr "Нижняя часть 2"
+
+#: functions.php:96 functions.php:106 functions.php:116 functions.php:126
+msgid "Add widgets here to appear in your footer."
+msgstr "Добавьте сюда виджеты для их помещения в нижнюю часть сайта."
+
+#: functions.php:94
+msgid "Footer 1"
+msgstr "Нижняя часть 1"
+
+#: functions.php:84
+msgid "Sidebar 3"
+msgstr "Область виджетов 3"
+
+#: functions.php:76 functions.php:86
+msgid "Add widgets here to appear in your pages and posts"
+msgstr "Добавьте сюда виджеты для их помещения на страницы и записи"
+
+#: functions.php:74
+msgid "Sidebar 2"
+msgstr "Область виджетов 2"
+
+#: functions.php:66
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Добавьте сюда виджеты для их помещения в область виджетов в записях блога и страницах архива."
+
+#: functions.php:64
+msgid "Blog Sidebar"
+msgstr "Область виджетов блога"
+
+#: functions.php:33
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: single.php:35 single.php:61 single.php:86 single.php:111 single.php:138
+#: single.php:206
+msgid "Next"
+msgstr "Далее"
+
+#: single.php:35 single.php:61 single.php:86 single.php:111 single.php:138
+#: single.php:206
+msgid "Next Post"
+msgstr "Следующая запись"
+
+#: single.php:34 single.php:60 single.php:85 single.php:110 single.php:137
+#: single.php:205
+msgid "Previous"
+msgstr "Назад"
+
+#: single.php:34 single.php:60 single.php:85 single.php:110 single.php:137
+#: single.php:205
+msgid "Previous Post"
+msgstr "Предыдущая запись"
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Найти"
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск&hellip;"
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вы должны войти для покупки."
+
+#: template-parts/post/content.php:25 template-parts/post/grid-layout.php:25
+#: page-template/custom-home-page.php:40
+msgid "READ MORE"
+msgstr "ЧИТАТЬ ДАЛЕЕ"
+
+#: template-parts/post/content.php:17 template-parts/post/grid-layout.php:17
+#: template-parts/post/content-single.php:19
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#: template-parts/post/content.php:17 template-parts/post/grid-layout.php:17
+#: template-parts/post/content-single.php:19
+msgid "0 Comments"
+msgstr "0 комментариев"
+
+#: template-parts/post/content-none.php:24
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: template-parts/post/content-none.php:14 search.php:18
+msgid "Nothing Found"
+msgstr "Не найдено"
+
+#: template-parts/page/content-page.php:22
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/footer/site-info.php:13
+msgid "Hexagon WordPress Theme By"
+msgstr "Тема Hexagon для WordPress от"
+
+#: archive.php:51 archive.php:84 archive.php:117 archive.php:149
+#: archive.php:183 archive.php:218 archive.php:251 single.php:179 search.php:53
+#: search.php:89 search.php:125 search.php:160 search.php:198 search.php:235
+#: search.php:268 index.php:52 index.php:87 index.php:121 index.php:156
+#: index.php:192 index.php:228 index.php:258
+msgid "Page"
+msgstr "Страница"
+
+#: archive.php:50 archive.php:83 archive.php:116 archive.php:148
+#: archive.php:182 archive.php:217 archive.php:250 single.php:178 search.php:52
+#: search.php:88 search.php:124 search.php:159 search.php:197 search.php:234
+#: search.php:267 index.php:51 index.php:86 index.php:120 index.php:155
+#: index.php:191 index.php:227 index.php:257
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: archive.php:49 archive.php:82 archive.php:115 archive.php:147
+#: archive.php:181 archive.php:216 archive.php:249 single.php:177 search.php:51
+#: search.php:87 search.php:123 search.php:158 search.php:196 search.php:233
+#: search.php:266 index.php:50 index.php:85 index.php:119 index.php:154
+#: index.php:190 index.php:226 index.php:256
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: archive.php:25 single.php:16 search.php:24 index.php:26
+#: inc/customizer.php:28 inc/customizer.php:38
+msgid "Right Sidebar"
+msgstr "Правая область виджетов"
+
+#. Author URI of the theme
+msgid "https://www.luzuk.com/"
+msgstr "https://www.luzuk.com/"
+
+#. Author of the theme
+#: functions.php:223
+msgid "Luzuk"
+msgstr "Luzuk"
+
+#. Theme URI of the theme
+msgid "https://www.luzuk.com/themes/free-hexagon-wordpress-theme/"
+msgstr "https://www.luzuk.com/themes/free-hexagon-wordpress-theme/"
